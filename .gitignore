@@ -27,7 +27,6 @@ share/python-wheels/
 MANIFEST
 myenv/
 tfidf.pkl 
-similarity.pkl
 movies_dict.pkl
 
 # PyInstaller
