@@ -29,7 +29,6 @@ myenv/
 tfidf.pkl 
 similarity.pkl
 movies_dict.pkl
-movies.pkl
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
